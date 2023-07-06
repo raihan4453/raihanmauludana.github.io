@@ -1,0 +1,106 @@
+
+/* li{
+    text-align:right;
+} */
+
+
+
+.foto{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    align-items: center;
+}
+.judul{
+    text-align:center;
+    font-family:  'Candara';
+}
+
+.tentang{
+    text-align:center;
+    font-family:  'Candara';
+}
+
+h2{
+    text-align:center;
+    font-family:  'Courier';
+    font-size: larger;
+    margin-bottom: 200px;
+}
+
+
+body{
+min-width: 100vh;
+background-color: #eaeaea;
+/* background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 0%, #FFF8DC 100%); */
+}
+
+
+.saya{
+    text-align: center;
+    margin-bottom: 550px;
+}
+
+.alamat{
+    text-align:center;
+    font-family:  'Candara';
+}
+.rumah{
+    text-align: center;
+    /* margin-bottom: 550px; */
+}
+
+.home{
+    color:#eaeaea;
+}
+
+.halo{
+    color:#eaeaea;
+}
+
+.kla{
+    color:#eaeaea;
+}
+
+.header{
+    margin-left: 50px;
+}
+
+.nav{
+    margin-right: 50px;
+}
+
+.no{
+    color:#eaeaea;
+}
+
+.maps{
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+    margin-bottom: 550px;
+}
+
+.hp{
+    text-align: center;
+}
+
+.tabel{
+    margin-bottom: 550px;
+}
+
+.wa{
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.te{
+    vertical-align: middle;
+}
